@@ -1,1 +1,1 @@
-a script that compiles a C file
+a script that compiles
